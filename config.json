@@ -1,0 +1,12 @@
+{
+  "adminPwd": "admin123",
+  "currentBg": "/assets/backgrounds/bg_1765362319064_2553.png",
+  "useMySQL": true,
+  "mysql": {
+    "host": "localhost",
+    "port": 3060,
+    "user": "root",
+    "password": "1234",
+    "database": "message_board"
+  }
+}
